@@ -24,7 +24,7 @@ Este repositório contém um relatório Power BI que demonstra técnicas avança
 
 ## Como Executar o Relatório
 
-1. **Baixe o arquivo .pbix:** Faça o download do arquivo `relatorio_interativo.pbix` deste repositório.
+1. **Baixe o arquivo .pbix:** Faça o download do arquivo `relatrio criativo_exp_usuário.pbix` deste repositório.
 2. **Abra no Power BI Desktop:** Abra o arquivo baixado no Power BI Desktop.
 3. **Explore o relatório:** Navegue pelas páginas, utilize as segmentações e interaja com os visuais.
 
@@ -41,6 +41,6 @@ Este projeto está licenciado sob a licença [MIT](LICENSE).
 
 ## Contato
 
-* [Seu nome] - [Seu email]
+* [Ronald] - [ronaldkurouzo@gmail.com]
 
 ---
