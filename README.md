@@ -10,9 +10,6 @@ Este repositório contém um relatório Power BI que demonstra técnicas avança
 * **Dicas visuais:** Destaque de botões e elementos interativos ao passar o mouse para indicar interatividade.
 * **Layout otimizado:** Organização clara dos elementos visuais para uma melhor visualização e análise dos dados.
 
-## Demonstração
-
-[Insira aqui uma imagem ou GIF do seu relatório]
 
 ## Recursos Utilizados
 
